@@ -27,7 +27,7 @@ Output: 0
 
 Constraints:
 n == nums.length
-1 <= n <= 105
+1 <= n <= 10^5
 -100 <= nums[i] <= 100
 
 */
