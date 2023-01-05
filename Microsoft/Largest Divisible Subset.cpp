@@ -17,7 +17,7 @@ Output: [1,2,4,8]
 
 Constraints:
 1 <= nums.length <= 1000
-1 <= nums[i] <= 2 * 109
+1 <= nums[i] <= 2 * 10^9
 All the integers in nums are unique.
 
 */
